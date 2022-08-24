@@ -1,2 +1,4 @@
 01.Monthly_Budget.xlsx
 	- Added Monthly Budget Data to Excel File
+	- Used Custom Date Format
+		|-> Home > Number Tab > Custom > More Number Format
